@@ -1,2 +1,7 @@
-# demo-lupyben-construcciones
-Demo web para Lupyben Construcciones — diseñada por eterlab.
+# Lupyben Construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
